@@ -1,5 +1,4 @@
 # it3030-paf-2026-smart-campus-groupWE-292-5.2
-# Smart Campus Management System
 ## Group Details - WE-292-5.2
 * Member 1: [Maddunage M S] - [IT 23348820]
 * Member 2: [Rodrigo P H W K T H] - [IT 23376922]
