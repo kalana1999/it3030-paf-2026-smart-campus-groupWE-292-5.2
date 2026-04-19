@@ -14,7 +14,7 @@ import smart_campus_backend.resource.repository.CampusResourceRepository;
 import java.util.List;
 
 @Slf4j
-@Component
+//Component
 @RequiredArgsConstructor
 public class ResourceDataInitializer implements CommandLineRunner {
 
